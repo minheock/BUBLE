@@ -32,13 +32,12 @@ const Content = styled.div`
 const Img = styled.img`
       min-width: 80px;
       width: 30%;
-      filter: $f-light-grey;
       margin-bottom: 10px;
 `
   const P = styled.p`
       font-size: 1.2rem;
       text-align: center;
-      color: $deep-grey;
+      color: grey;
   `
     
     
